@@ -8,8 +8,8 @@ mechanical keyboards with along with additional QOL features.
 - [main](#project-title)
 
 ## Features
-- main.dart
-- /ts
+- (#main.dart)
+- 
 - home_page.dart
 - components_page.dart
 - components_info.dart

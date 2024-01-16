@@ -5,7 +5,7 @@ This project works to create a mobile app that teaches people how to build custo
 mechanical keyboards with along with additional QOL features.
 
 ## Files
-- [main](#project-title)
+- [main](#main.dart)
 
 ## Features
 - (#main.dart)

@@ -27,3 +27,6 @@ mechanical keyboards with along with additional QOL features.
 - **settings_page.dart:** Configuration and settings page for the app.
 
 Each file has a specific role and contributes to different aspects of the app. Feel free to explore each component for a comprehensive understanding of the project.
+
+## Images ##
+Contains all the images used as assets in the projects. Additions to assets can be found in pubspec.yaml.

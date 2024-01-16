@@ -4,12 +4,9 @@ Final project for Mobile App Development using Flutter.
 This project works to create a mobile app that teaches people how to build custom 
 mechanical keyboards with along with additional QOL features.
 
-## Files
-- [main](#main.dart)
 
 ## Features
-- (#main.dart)
-- 
+- main.dart
 - home_page.dart
 - components_page.dart
 - components_info.dart
